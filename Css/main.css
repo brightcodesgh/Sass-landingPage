@@ -1,3 +1,22 @@
+.alert, .oh-dang, .warning, .success {
+  margin: 10px 0;
+  padding: 15px;
+  text-transform: uppercase;
+  border-radius: 10px;
+}
+
+.success {
+  background: #4CAF50;
+}
+
+.warning {
+  background: #fc3;
+}
+
+.oh-dang {
+  background: red;
+}
+
 .footer {
   background-color: #212630;
   padding: 2rem;
