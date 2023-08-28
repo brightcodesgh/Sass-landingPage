@@ -1,1 +1,3 @@
-A simple Sass Landing page
+A template Sass Landing page 
+
+<img src="Assets/Screenshot (101).png">
